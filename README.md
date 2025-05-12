@@ -19,9 +19,7 @@ The objective of this project is to perform an exploratory data analysis (EDA) o
 
 ## 🗂️ Dataset
 
-The dataset used is the **Netflix Movies and TV Shows** dataset from [Kaggle]
-
-- **File**: `netflix_titles.csv`
+- **File**: `mymoviedb.csv`
 - **Features**:
   - `show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
 
