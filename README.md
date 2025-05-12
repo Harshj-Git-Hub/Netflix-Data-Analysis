@@ -21,7 +21,7 @@ The objective of this project is to perform an exploratory data analysis (EDA) o
 
 - **File**: `mymoviedb.csv`
 - **Features**:
-  - `show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
+ - 'Release_Date',	'Title', 'Overview',	'Popularity',	'Vote_Count',	'Vote_Average',	'Original_Language', 'Genre'
 
 ---
 
@@ -37,4 +37,10 @@ The objective of this project is to perform an exploratory data analysis (EDA) o
 ---
 
 ## 📁 Project Structure
+
+-All committed steps:
+ 
+ 1. Data Exploration
+ 2. Data Cleaning
+ 3. Data Visualization
 
